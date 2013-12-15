@@ -1,0 +1,63 @@
+Emulation-related bugs
+======================
+
+This is a non-exhaustive list of games that are currently not working properly
+in DGen due to bad or incomplete emulation.
+
+Working, with glitches
+----------------------
+
+- Double Dragon 2
+Sometimes slower than it should be.
+
+- Sonic 2 prototype
+No sound/music (works fine with Cyclone).
+
+- Street Racer
+Mangled pictures in the intro.
+
+- Streets of Rage 1
+End of level counter sound is bad.
+
+- Aleste - Full metal fighter Ellinor
+Some HUD areas are wrong.
+
+- Ayrton Senna's Super Monaco
+Sky is black and top screen color is wrong.
+
+- Golden Axe 2
+Some sort of loop at start that freezes DGen for a while.
+
+- Gynoug
+Menu/intro backgrounds are mangled (works fine with Cyclone).
+
+- Super Hang-on
+Bad horizon line.
+
+- Thunder force 3
+Main weapon sound is bad.
+
+- Thunder force 4
+Corrupt intro.
+Some versions don't work at all.
+
+- Viewpoint
+Menu background is mangled.
+
+Non-working (must be fixed)
+---------------------------
+
+- All hacked games with added intros
+They either display a blank screen or crash after the intro.
+
+- Time killers
+Blank screen.
+
+Non-working (this is expected)
+------------------------------
+
+- Ya-Se Chuan Shuo
+Freezes (missing hardware?)
+
+- Virtua Racing
+Missing proper hardware emulation.
